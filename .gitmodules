@@ -1,0 +1,6 @@
+[submodule "ToDoListReact"]
+	path = ToDoListReact
+	url = https://github.com/HadassaO/ToDoAPIReact.git
+[submodule "TodoAPIServer"]
+	path = TodoAPIServer
+	url = https://github.com/HadassaO/ToDoAPIServer.git
